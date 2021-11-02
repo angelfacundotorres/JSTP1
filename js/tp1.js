@@ -96,3 +96,5 @@
 // } else {
 //   document.write('No es divisible por ninguno de los posibles divisores')
 // }
+
+/*FIN
